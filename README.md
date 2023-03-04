@@ -20,7 +20,7 @@
 <a href="https://twitter.com/aakash_kalamkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aakash_kalamkar" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aakashrdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aakashrdev" height="30" width="40" /></a>
 <a href="https://instagram.com/aakash.a.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aakash.a.dev" height="30" width="40" /></a>
-<a href="https://hashnode.com/aakashdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="aakashdev" height="30" width="40" /></a>
+<a href="https://hashnode.com/@aakashdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="aakashdev" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/aakashdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aakashdev" height="30" width="40" /></a>
 </p>
 
