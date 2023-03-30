@@ -3,6 +3,8 @@
 
 <p align="left"> <a href="https://twitter.com/aakash_kalamkar" target="blank"><img src="https://img.shields.io/twitter/follow/aakash_kalamkar?logo=twitter&style=for-the-badge" alt="aakash_kalamkar" /></a> </p>
 
+<img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" align="right">
+
 - 🔭 I’m currently working on **Web3**
 
 - 🌱 I’m currently learning **Flutter**
@@ -13,7 +15,7 @@
 
 - 📫 How to reach me **aakash.ar1213@gmail.com**
 
-<img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" align="right">
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
