@@ -1,3 +1,4 @@
+[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://astriamedia.in)
 <h1 align="center">Hi 👋, I'm Aakash Amod Rajput</h1>
 <h3 align="center">MERN Developer | Javascript</h3>
 <img src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif" align="right" width="400">
