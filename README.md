@@ -31,5 +31,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aakash-a-dev&show_icons=true&locale=en&layout=compact" alt="aakash-a-dev" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aakash-a-dev&show_icons=true&locale=en" alt="aakash-a-dev" /></p>
+
 
